@@ -15,3 +15,11 @@ Pseudo coding can be very useful when getting started on a project because you c
 I'm struggling to add creativity to my assignments. I'm concerned with getting my assignments finished, but I'm not concerned with adding any creative flair to my work after it has been finished. However, I do enjoy what we are learning, and I am excited to keep learning:)
 3. ***What are you excited or eager to learn more about?***<br>
 I'm excited to start using GitHub collaboratively. I'm eager to offer solutions in the form of pull requests to others on GitHub and I'm eager to accept or reject pull requests from others for my own repositories.
+## Week 3
+### 2/12/21
+1. ***What are your thoughts about the roles HTML, CSS, and JavaScript play in the process of rendering content and providing user experience?***<br>
+In general, HTML is used to add elements to a web page, CSS is used to style those elements, and JavaScript is used to provide functionality and interactivity to a web page. Each one serves a different purpose and is crucial in creating a relevant or useful web page. You must become adept with each tool if you wish to become a competent web developer.
+2. ***What are some objects that your blog incorporates?***<br>
+When I read this question at the beginning of the week, I was a bit puzzled as to what was being asked. However, now that I have completed the pseudocode assignment which forced me to think more programmatically and in a more object-oriented sense, I can now answer the question! The entire blog itself is an object. Based on how the document is structured, each blog post contains questions and the date it was written. The blog post is an object of a weekly blog, and each weekly blog is an object of the entire blog.
+3. ***What are your thoughts on pseudo coding now?***<br>
+Pseudo coding is crucial to understanding complex programs. I was intimidated by the pseudo code project this week because it required us to convert an everyday task into an algorithm. I was lost until I started pseudo coding. I could not see the task algorithmically until I wrote instructions for the task in english, turned the instructions into a flowchart, and then converted the flowchart into objects and a deployment of different processes.
