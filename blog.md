@@ -23,3 +23,13 @@ In general, HTML is used to add elements to a web page, CSS is used to style tho
 When I read this question at the beginning of the week, I was a bit puzzled as to what was being asked. However, now that I have completed the pseudocode assignment which forced me to think more programmatically and in a more object-oriented sense, I can now answer the question! The entire blog itself is an object. Based on how the document is structured, each blog post contains questions and the date it was written. The blog post is an object of a weekly blog, and each weekly blog is an object of the entire blog.
 3. ***What are your thoughts on pseudo coding now?***<br>
 Pseudo coding is crucial to understanding complex programs. I was intimidated by the pseudo code project this week because it required us to convert an everyday task into an algorithm. I was lost until I started pseudo coding. I could not see the task algorithmically until I wrote instructions for the task in english, turned the instructions into a flowchart, and then converted the flowchart into objects and a deployment of different processes.
+## Week 4
+### 2/21/21
+1. ***What was one thing you liked and disliked about each of the new topics covered in Pre Work?***<br>
+I like working with files from the command line because of how much quicker it is than clicking through different interfaces. I like pushing my projects to GitHub because it feels like I'm saving my work forever. I like Javascript because it is fun trying to emulate real life conditions into code and figuring out algorithms. I do not have as much fun working with HTML and CSS, and I find container logic intimidating, but I'm conifident as I become more comfortable with HTML, I will enjoy it more. Agile concepts were intriguing, and I'm excited to translate them into software development.
+2. ***What was helpful?***<br>
+Providing the documentation was crucial to my completing the assignments. I like to read through the documentation and feel I have a thorough understanding before taking on the challenges. While I feel this mindset is not foolproof, I always felt prepared for the projects!
+3. ***What hindered your progress?***<br>
+I was very intimidated by pseudocode. I wanted to code right away instead. This mindset caused me to have a headache over a few assignments that were quite simple once broken down.
+4. ***How did you overcome challenges?***<br>
+I started pseudocoding before trying to program! Pseudocode isn't necessarily another language or defined by principles. You can pseudocode in whatever way comes naturally to you. Once this became clear, it was much easier for me to take notes on assignments, take notes on those notes, and then translate those notes into code!
