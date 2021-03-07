@@ -41,3 +41,13 @@ The number one thing that held me back this week was feeling lost when starting 
 I would like to get more comfortable with object-oriented programming. Functional programming is easy to grasp, but object-oriented programming causes you to think at a higher level. I also need to become more familiar with the syntax regarding constructors and inheritance.
 3. ***What is one thing you would like to learn more about regarding Bootstrap or Atomic Design?***<br>
 Regarding Bootstrap, I would like to get better at spacing. Most of my time on my Campaign Components projects was spent trying to get everything aligned appropriately.
+## Week 6
+### 3/7/21
+1. ***What did you learn about that helped you understand the development process?***
+The Git flow strategy has really helped me understand the development process. You create a local repository, push it to Github, checkout a new branch, complete a user story, push your changes to Github, complete another user story and push it to Github until you are finished with the functionality. However, development is never actually finished. You will always think of something else you could have included or somebody else will think of something you could have included in the form of a pull request or issue. Pseudocode has also helped me break software development into simpler and smaller parts.
+2. ***What does it mean to develop good code?***
+Good code is usually clear and concise. You can get rid of unnecessary lines of code by taking advantage of libraries and APIs that have already done the mundane work for you. Clear code has plenty of comments so you or anybody else could revisit the project in the future and make changes. Good code also uses efficient algorithms so the program isn't using unnecessary computing power.
+3. ***What does it mean to be a good developer?***
+A good developer produces good code in a timely manner. They are conscious of the libraries and APIs they can use, the object-oriented structure of their program, how to comment their code, and how to use algorithms to make their code efficient. Good developers are also not stubborn or afraid to ask questions when they are stumped. Good developers must also be willing to research their own questions or they will never be independent.
+4. ***What is one thing that programmers hate doing?***
+Programmers hate asking for help! They believe it is a sign of weakness or defeat. However, if you ever want to deliver software in a timely manner, you must accept you do not know everything, and utilize your resources to your advantage.
