@@ -51,3 +51,15 @@ Good code is usually clear and concise. You can get rid of unnecessary lines of 
 A good developer produces good code in a timely manner. They are conscious of the libraries and APIs they can use, the object-oriented structure of their program, how to comment their code, and how to use algorithms to make their code efficient. Good developers are also not stubborn or afraid to ask questions when they are stumped. Good developers must also be willing to research their own questions or they will never be independent.
 4. ***What is one thing that programmers hate doing?***<br>
 Programmers hate asking for help! They believe it is a sign of weakness or defeat. However, if you ever want to deliver software in a timely manner, you must accept you do not know everything, and utilize your resources to your advantage.
+## Week 7
+### 3/15/21
+1. ***What are three ideas you might want to do for your final project?***<br>
+I would like to produce something I can use in my daily life. I use Spotify daily to listen to music, however, Spotify can be very difficult if you are looking for something new. Spotify is very good at keeping you locked in a bubble. Spotify will rarely recommend me something I haven't heard before or something I haven't already rejected. I would like to be able to use APIs and a database on my machine to make a program that recommends obscure music to me from YouTube or other sources. Other ideas I would like to see realized are a statistics recorder for when I play in Smash Bros tournaments and some kind of reminder system to keep me organized.
+2. ***Why do you see JavaScript useful or hard to use?***<br>
+Javascript is useful because it gives web pages functionality or makes web pages dynamic. With just HTML and CSS, you can make a pretty website, but the user cannot interact with the website and you interact with the user's data.
+3. ***What aspects about JavaScript are you interested in learning more about?***<br>
+I want to learn more about objects, class interaction, and algorithms. I would like to be able to write efficient code and organized code that is reusable.
+4. ***What are your thoughts about the MVC Design Pattern?***<br>
+The MVC design pattern is a great way to organize our code and segment our projects. It is easier to pseudocode a project when you look at the code from the perspective of model, view, controller. What data changes state, what goes in the interface, and what functions will my project require? MVC also encourages reusable code.
+5. ***What are some other Design Patterns?***<br>
+A pattern I like to follow when programming is to divide the application into states. What happens on load, what can happen next, what can then happen, what happens in the end or before the program can end? If I have pseudocoded the project from beginning to end and was conscious of the data structures required, I can sequentially program states of the application until I am finished. However, this pattern of programming neglects the actual structure of the code meaning you may be typing more code than necessary or may not produce reusable code.
