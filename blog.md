@@ -63,3 +63,11 @@ I want to learn more about objects, class interaction, and algorithms. I would l
 The MVC design pattern is a great way to organize our code and segment our projects. It is easier to pseudocode a project when you look at the code from the perspective of model, view, controller. What data changes state, what goes in the interface, and what functions will my project require? MVC also encourages reusable code.
 5. ***What are some other Design Patterns?***<br>
 A pattern I like to follow when programming is to divide the application into states. What happens on load, what can happen next, what can then happen, what happens in the end or before the program can end? If I have pseudocoded the project from beginning to end and was conscious of the data structures required, I can sequentially program states of the application until I am finished. However, this pattern of programming neglects the actual structure of the code meaning you may be typing more code than necessary or may not produce reusable code.
+## Week 8
+### 3/21/21
+1. ***Why do you see JavaScript Frameworks and Libraries useful or hard to use?***<br>
+Javascript Frameworks are hard to use because it's almost like learning a new programming language. However, they are useful because they prevent you from writing code that has already been written for you and they allow you more time during the planning stages of a project. Some Frameworks encourage organization and therefore allow easier translation from pseudocode to code.
+2. ***What Frameworks or Libraries are you interested in learning more about?***<br>
+I would like to learn more about built-in Javascript Libraries. Like Frameworks, built-in Libraries prevent you from writing code that has already been written for you, giving you more time to spend on unique algorithmic problems that cannot be provided.
+3. ***Find one emerging JavaScript tool that you would like to learn more about or use in your final project.***<br>
+I would like to learn more about APIs like Axios, so in my final project I can take information from other sources and use it for my own purposes. For example, I would like to be able to take information regarding my Smash tournament sets from the website they are hosted on and use that information in my own statistical analysis program.
