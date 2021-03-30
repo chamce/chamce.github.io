@@ -71,3 +71,16 @@ Javascript Frameworks are hard to use because it's almost like learning a new pr
 I would like to learn more about built-in Javascript Libraries. Like Frameworks, built-in Libraries prevent you from writing code that has already been written for you, giving you more time to spend on unique algorithmic problems that cannot be provided.
 3. ***Find one emerging JavaScript tool that you would like to learn more about or use in your final project.***<br>
 I would like to learn more about APIs like Axios, so in my final project I can take information from other sources and use it for my own purposes. For example, I would like to be able to take information regarding my Smash tournament sets from the website they are hosted on and use that information in my own statistical analysis program.
+## Week 9
+### 3/26/21
+1. ***Why are CLIs scary?***<br>
+
+2. ***What have you learned about CLIs?***<br>
+
+3. ***Would you build a CLI? What would it do?***<br>
+
+4. ***List a some ideas that without a Framework, would take you a long time to code.***<br>
+
+5. ***How do you feel now (week 5) compared to when you started?***<br>
+
+6. ***What questions haven't you answered on your blog page yet (scroll up and answer them to catch up)?***<br>
