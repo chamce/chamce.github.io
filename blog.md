@@ -74,13 +74,22 @@ I would like to learn more about APIs like Axios, so in my final project I can t
 ## Week 9
 ### 3/26/21
 1. ***Why are CLIs scary?***<br>
-
+Command Line Interfaces are scary because they can be used to execute operating system functions and access features not available in the graphical user interface. Using the CLI carelessly can cause important system files to be deleted.
 2. ***What have you learned about CLIs?***<br>
-
+I have learned how to use a Linux CLI to navigate directories on my computer, create local repositories, connect a local repository to a GitHub repository, check repository status, commit repository changes, and push changes to GitHub.
 3. ***Would you build a CLI? What would it do?***<br>
-
+If I built a CLI, I would like it to have quick and easy commands to stylize the graphical interface of my computer. I would like to have the ability to quickly change my cursor, my background image, from light mode to dark mode, etc.
 4. ***List a some ideas that without a Framework, would take you a long time to code.***<br>
-
+Without a Framework, it can take a lot of time to style your html elements or components. Bootstrap provides you a lot of style flexibility by providing smart classes you can just add to an element or component. Frameworks can also prevent you from writing unnecessary classes. React hooks allow you to work with state within functional components, reducing lines of code.
 5. ***How do you feel now (week 5) compared to when you started?***<br>
-
-6. ***What questions haven't you answered on your blog page yet (scroll up and answer them to catch up)?***<br>
+Compared to when I started, I've learned a lot that I didn't know I was gonna learn. I didn't really understand what Frameworks and Libraries were when I started, and now I understand how they have totally revolutionized and sped up the software development process. I am a lot more interested in programming now that I have a better understanding of the software development landscape.
+## Week 10
+### 4/5/21
+1. ***What do you like about React?***<br>
+I like that React forces me to structure my code in an MVC-like way because it forces me to think in a reductionist way. In other words, I can usually start working on a project by simply thinking, what variables do I actually need in state to perform all of the functions required? Then, after I've started coding, I can add more variables if they solve efficiency problems. I also like that I can see my model, view, and controller all organized in the same screen. 
+2. ***What are you struggling with the most about React?***<br>
+My biggest pitfall with React is understanding why sometimes setState and the synchronous nature of javascript collide. There was an instance in both of my projects this week where functions had to converted to asynchronous functions and await commands had to be used, but I didn't really understand what was taking place. I'm hoping I can get a better understanding of async and await by next week.
+3. ***How has React caused you to rethink your existing projects?***<br>
+React has caused me to think--how can I reduce the size of my other projects by recoding them in a reductionist, MVC-like manner?
+4. ***What is your biggest win this week? Halfway through!***<br>
+My biggest win this week was realizing, if I seek solutions to my coding problems as they arise, and I have pseudo coded the requirements well, I can complete the projects rather quickly. I essentially completed the restaurant project in a day, and the puzzle slider in a day.
