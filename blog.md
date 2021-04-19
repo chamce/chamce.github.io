@@ -71,3 +71,47 @@ Javascript Frameworks are hard to use because it's almost like learning a new pr
 I would like to learn more about built-in Javascript Libraries. Like Frameworks, built-in Libraries prevent you from writing code that has already been written for you, giving you more time to spend on unique algorithmic problems that cannot be provided.
 3. ***Find one emerging JavaScript tool that you would like to learn more about or use in your final project.***<br>
 I would like to learn more about APIs like Axios, so in my final project I can take information from other sources and use it for my own purposes. For example, I would like to be able to take information regarding my Smash tournament sets from the website they are hosted on and use that information in my own statistical analysis program.
+## Week 9
+### 3/26/21
+1. ***Why are CLIs scary?***<br>
+Command Line Interfaces are scary because they can be used to execute operating system functions and access features not available in the graphical user interface. Using the CLI carelessly can cause important system files to be deleted.
+2. ***What have you learned about CLIs?***<br>
+I have learned how to use a Linux CLI to navigate directories on my computer, create local repositories, connect a local repository to a GitHub repository, check repository status, commit repository changes, and push changes to GitHub.
+3. ***Would you build a CLI? What would it do?***<br>
+If I built a CLI, I would like it to have quick and easy commands to stylize the graphical interface of my computer. I would like to have the ability to quickly change my cursor, my background image, from light mode to dark mode, etc.
+4. ***List a some ideas that without a Framework, would take you a long time to code.***<br>
+Without a Framework, it can take a lot of time to style your html elements or components. Bootstrap provides you a lot of style flexibility by providing smart classes you can just add to an element or component. Frameworks can also prevent you from writing unnecessary classes. React hooks allow you to work with state within functional components, reducing lines of code.
+5. ***How do you feel now (week 5) compared to when you started?***<br>
+Compared to when I started, I've learned a lot that I didn't know I was gonna learn. I didn't really understand what Frameworks and Libraries were when I started, and now I understand how they have totally revolutionized and sped up the software development process. I am a lot more interested in programming now that I have a better understanding of the software development landscape.
+## Week 10
+### 4/5/21
+1. ***What do you like about React?***<br>
+I like that React forces me to structure my code in an MVC-like way because it forces me to think in a reductionist way. In other words, I can usually start working on a project by simply thinking, what variables do I actually need in state to perform all of the functions required? Then, after I've started coding, I can add more variables if they solve efficiency problems. I also like that I can see my model, view, and controller all organized in the same screen. 
+2. ***What are you struggling with the most about React?***<br>
+My biggest pitfall with React is understanding why sometimes setState and the synchronous nature of javascript collide. There was an instance in both of my projects this week where functions had to converted to asynchronous functions and await commands had to be used, but I didn't really understand what was taking place. I'm hoping I can get a better understanding of async and await by next week.
+3. ***How has React caused you to rethink your existing projects?***<br>
+React has caused me to think--how can I reduce the size of my other projects by recoding them in a reductionist, MVC-like manner?
+4. ***What is your biggest win this week? Halfway through!***<br>
+My biggest win this week was realizing, if I seek solutions to my coding problems as they arise, and I have pseudo coded the requirements well, I can complete the projects rather quickly. I essentially completed the restaurant project in a day, and the puzzle slider in a day.
+## Week 11
+### 4/12/21
+1. ***What have you learned about PHP and server side programming that you were not aware of prior to this week?***<br>
+I was not aware PHP was so syntactically similar to Javascript. Creating API routes to interact with a database is also new to me, but it's exciting to finally have a thorough understanding of APIs and their importance to modern web developers!
+2. ***What do you want to know more about PHP and server side programming?***<br>
+I want to learn how to use PHP to interact with a file system.
+3. ***How has learning PHP been? What are some similarities and differences you can see with JS?***<br>
+Learning PHP was not too difficult because syntactically it is very similiar to JS, however, scope and variable declaration in PHP seems more forgiving, despite JS already being much more forgiving than a language like Java.
+4. ***What if you had started with PHP instead of JS?***<br>
+If I had started with a server-side language instead of a front-end language, I probably wouldn't have been as engaged in the content, because I wouldn't have been able to imagine a deliverable to the user. My motivation in software development lies in user experience, and it's harder to consider user experience when programming only on the back-end.
+5. ***Find one library, framework, NPM package, and/or external web API you think you might want use for your final project.***<br>
+Ruby on Rails is quite popular, so it would probably benefit me to add it to my resume and to understand the root of its popularity. Furthermore, Ruby on Rails is an MVC framework much like React, and React has been my favorite part of the bootcamp's tech stack.
+## Week 12
+### 4/19/21
+1. ***What are your thoughts about how far you have come? How has your Digital Literacy, Computational Thinking, and Adoption of Coding Culture increased?***<br>
+I have come very far since joining the bootcamp. I graduated from university in the spring of 2020 with a CS degree, however, I did not feel like a software developer. When I applied for jobs, I felt very unfamiliar with the software development workflow and tech stack. I knew I still had much to learn. When I came across the bootcamp, it offered exactly what I felt I was weak in. During the bootcamp, my love for algorithmic problem solving has been reinvigorated with our codewars competition and I have learned a tech stack that gives me the confidence to build whatever I want.
+2. ***How do you plan on continuing to grow those areas?***<br>
+To continue growing in these areas, post-bootcamp, I'm going to continue my algorithm practice on codewars and create my own weekly projects that are more catered to my interests. I will stay up-to-date with the tech stack of modern web developers so I am a seen as a valuable asset to job recruiters.
+3. ***What are you struggling with the most in the Tech Stack so far and why?***<br>
+My biggest struggle in the tech stack would have to be back-end development because alone, it does not interest me like front-end development does. As a programmer, I see more through the lens of the user. However, full-stack development excites me much more than front-end alone. I will come to appreciate back-end development more after I tackle the final project and see the power of full-stack development.
+4. ***After making it through the tech stack, where do you think your current gaps are?***<br>
+As of today, I'm not sure yet how front-end and back-end development are going to come together, but I'm ecstatic knowing I will know before the bootcamp is over!
