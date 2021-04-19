@@ -93,3 +93,25 @@ My biggest pitfall with React is understanding why sometimes setState and the sy
 React has caused me to think--how can I reduce the size of my other projects by recoding them in a reductionist, MVC-like manner?
 4. ***What is your biggest win this week? Halfway through!***<br>
 My biggest win this week was realizing, if I seek solutions to my coding problems as they arise, and I have pseudo coded the requirements well, I can complete the projects rather quickly. I essentially completed the restaurant project in a day, and the puzzle slider in a day.
+## Week 11
+### 4/12/21
+1. ***What have you learned about PHP and server side programming that you were not aware of prior to this week?***<br>
+I was not aware PHP was so syntactically similar to Javascript. Creating API routes to interact with a database is also new to me, but it's exciting to finally have a thorough understanding of APIs and their importance to modern web developers!
+2. ***What do you want to know more about PHP and server side programming?***<br>
+I want to learn how to use PHP to interact with a file system.
+3. ***How has learning PHP been? What are some similarities and differences you can see with JS?***<br>
+Learning PHP was not too difficult because syntactically it is very similiar to JS, however, scope and variable declaration in PHP seems more forgiving, despite JS already being much more forgiving than a language like Java.
+4. ***What if you had started with PHP instead of JS?***<br>
+If I had started with a server-side language instead of a front-end language, I probably wouldn't have been as engaged in the content, because I wouldn't have been able to imagine a deliverable to the user. My motivation in software development lies in user experience, and it's harder to consider user experience when programming only on the back-end.
+5. ***Find one library, framework, NPM package, and/or external web API you think you might want use for your final project.***<br>
+Ruby on Rails is quite popular, so it would probably benefit me to add it to my resume and to understand the root of its popularity. Furthermore, Ruby on Rails is an MVC framework much like React, and React has been my favorite part of the bootcamp's tech stack.
+## Week 12
+### 4/19/21
+1. ***What are your thoughts about how far you have come? How has your Digital Literacy, Computational Thinking, and Adoption of Coding Culture increased?***<br>
+I have come very far since joining the bootcamp. I graduated from university in the spring of 2020 with a CS degree, however, I did not feel like a software developer. When I applied for jobs, I felt very unfamiliar with the software development workflow and tech stack. I knew I still had much to learn. When I came across the bootcamp, it offered exactly what I felt I was weak in. During the bootcamp, my love for algorithmic problem solving has been reinvigorated with our codewars competition and I have learned a tech stack that gives me the confidence to build whatever I want.
+2. ***How do you plan on continuing to grow those areas?***<br>
+To continue growing in these areas, post-bootcamp, I'm going to continue my algorithm practice on codewars and create my own weekly projects that are more catered to my interests. I will stay up-to-date with the tech stack of modern web developers so I am a seen as a valuable asset to job recruiters.
+3. ***What are you struggling with the most in the Tech Stack so far and why?***<br>
+My biggest struggle in the tech stack would have to be back-end development because alone, it does not interest me like front-end development does. As a programmer, I see more through the lens of the user. However, full-stack development excites me much more than front-end alone. I will come to appreciate back-end development more after I tackle the final project and see the power of full-stack development.
+4. ***After making it through the tech stack, where do you think your current gaps are?***<br>
+As of today, I'm not sure yet how front-end and back-end development are going to come together, but I'm ecstatic knowing I will know before the bootcamp is over!
