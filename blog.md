@@ -118,15 +118,15 @@ As of today, I'm not sure yet how front-end and back-end development are going t
 ## Week 13
 ### 4/26/21
 1. ***What are your thoughts about Laravel and React?***<br>
-
+I enjoy React because of it's MVC-esque structure. I know where to write the interface, I know where to write my data, and I know where to write my functions. Laravel is complicated because for each object, you have a migration, model, factory, seeder, controller, and routes. However, Laravel prevents you from having to write vanilla PHP and SQL, so once you become comfortable with it, you will reap the benefits. 
 2. ***What is one thing that you love about React or Laravel that you used to hate / didn't understand how to use?***<br>
-
+I love that React looks like HTML--it makes React very approachable. I love that React and Laravel are not really connected. In Laravel, all of your work leads up to creating API routes that you can travel to. So, you can cause your React interface (or any front-end language) to dynamically hit those routes.
 3. ***Compared to weeks three and six, what are three ideas you might want to do for your final project? Are they the same, or have they changed now that you understand more about the technology and your limitations?***<br>
-
+My idea for my final project has completely changed. For my Attack of the Clones project, I created an MVP for the mobile version of Twitter. I would like to continue this project for my final project. I think it would be a neat way to connect and keep up with my fellow bootcampers post-bootcamp. Now that I understand the tech stack a bit more, the interface would be created in React, I would create a way to maintain every user's information in Laravel, and I would program the interface to hit API routes (created in Laravel) to update user information.
 4. ***What cool new features have you learned about from the languages and frameworks you already know that will improve your workflow / add slick features to your final project?***<br>
-
+React Router will make it so much easier to change my application's interface at the push of a button and add organization to my workflow--create a component for each Route then create more components as necessary.
 5. ***What do you think about react hooks?***<br>
-
+I like React Hooks because it greatly reduces line-of-code and complexity because I never have to write a class component again, never have to write 'this', and state because much easier to access.
 ## Week 14
 ### 5/3/21
 1. ***What are your thoughts about the Final Project?***<br>
