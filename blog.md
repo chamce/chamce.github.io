@@ -130,19 +130,20 @@ I like React Hooks because it greatly reduces line-of-code and complexity becaus
 ## Week 14
 ### 5/3/21
 1. ***What are your thoughts about the Final Project?***<br>
-
+The final project gives us experience with the Agile Methodology--taking each user story from the MVP through the verical slice of back-end to front-end. I think the final project will be very valuable experience we can apply to a real job.
 2. ***What do you think you will struggle with in completing the Final Project? Where will you excel?***<br>
-
+With the final project, I believe I will struggle with staying true to the vertical slice. I generally enjoy programming the interface first, then programming the functionality. I believe I will excel in delivering a product that is not broken and not easy to break, because I will remain cognizant of time limations and will program the basic functionality first.
 3. ***What are your opinions on the Agile Methodology? Do you think it takes up time? Do you think large scale projects can be completed without it?***<br>
-
+I like the Agile Methodology for large scale projects because it keeps you organized. I would have had no idea where to start with my final project had I not created the MVP. Furthermore, the MVP and Kanban Board give you perspective on how long a project could take, so you can scale down based on a time estimation. However, smaller projects that could be completed in less than a week do not require an MVP and the enforcement of the verical slice, because that would just take up time.
 ## Week 15
 ### 5/10/21
 1. ***How have you progressed and struggled during the time while building your Final Project?***<br>
-
+During production, I have realized my MVP was not within reason based on the time allotted. I have scaled down my application tremendously. My project is no longer a checkers client with social media functionality. I have removed the social media functionality. I have also removed the concept of letting two people play checkers together, and instead opted to let two users send text messages, and am seeking real-time messaging.
 2. ***When was the last time your pseudo coded? What has changed in your method from then to now?***<br>
-
+I pseudo code just about every time I sit down to code, but instead of writing on a piece of paper, I am usually typing in a notepad what I am trying to accomplish. I tweak my notes every time something is accomplished and every hour or two.
 ## Week 16
 ### 5/17/21
 1. ***What was your experience like overall in the Bootcamp?***<br>
-
+My experience with the Bootcamp was super positive. I met a lot of great people, made a lot of developments in terms of career strategy, have new skills to add to my resume, gained experience in the agile methodology and soft skills, gained experience in object-oriented programming, discovered new passions, and now have a portfolio to show off to employers.
 2. ***When you look back on this blog, where do you see yourself growing the most?***<br>
+Looking back on the blog, I see myself applying the skills I have learned in the bootcamp to reach employers, create my brand, create my own projects, update my current projects, learn additional skills and tech stacks, discover even more about myself, and find a fulfilling job:)
