@@ -115,3 +115,34 @@ To continue growing in these areas, post-bootcamp, I'm going to continue my algo
 My biggest struggle in the tech stack would have to be back-end development because alone, it does not interest me like front-end development does. As a programmer, I see more through the lens of the user. However, full-stack development excites me much more than front-end alone. I will come to appreciate back-end development more after I tackle the final project and see the power of full-stack development.
 4. ***After making it through the tech stack, where do you think your current gaps are?***<br>
 As of today, I'm not sure yet how front-end and back-end development are going to come together, but I'm ecstatic knowing I will know before the bootcamp is over!
+## Week 13
+### 4/26/21
+1. ***What are your thoughts about Laravel and React?***<br>
+
+2. ***What is one thing that you love about React or Laravel that you used to hate / didn't understand how to use?***<br>
+
+3. ***Compared to weeks three and six, what are three ideas you might want to do for your final project? Are they the same, or have they changed now that you understand more about the technology and your limitations?***<br>
+
+4. ***What cool new features have you learned about from the languages and frameworks you already know that will improve your workflow / add slick features to your final project?***<br>
+
+5. ***What do you think about react hooks?***<br>
+
+## Week 14
+### 5/3/21
+1. ***What are your thoughts about the Final Project?***<br>
+
+2. ***What do you think you will struggle with in completing the Final Project? Where will you excel?***<br>
+
+3. ***What are your opinions on the Agile Methodology? Do you think it takes up time? Do you think large scale projects can be completed without it?***<br>
+
+## Week 15
+### 5/10/21
+1. ***How have you progressed and struggled during the time while building your Final Project?***<br>
+
+2. ***When was the last time your pseudo coded? What has changed in your method from then to now?***<br>
+
+## Week 16
+### 5/17/21
+1. ***What was your experience like overall in the Bootcamp?***<br>
+
+2. ***When you look back on this blog, where do you see yourself growing the most?***<br>
